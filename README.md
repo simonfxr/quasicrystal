@@ -7,7 +7,6 @@ realtime rendering (at least on reasonable resolutions and number of planes :-).
 ![Crystal using N=5 Waves](/crystal_5.gif?raw=true)
 ![Crystal using N=7 Waves](/crystal_7.gif?raw=true)
 ![Crystal using N=11 Waves](/crystal_11.gif?raw=true)
-
 ![Crystal using N=23 Waves](/crystal_23.gif?raw=true)
 
 ## Commandline Help
